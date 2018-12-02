@@ -1,6 +1,8 @@
 package graph;
 /**
  * 图的最小生成树 Prim 算法
+ * 时间复杂度，n平方
+ * 适合求稠密网的最小生成树
  * @author kayi9
  *
  */

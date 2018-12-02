@@ -5,6 +5,8 @@ import java.util.Arrays;
 /**
  * 边集数组类
  * 用于图的最小生成树 Kruskal 算法
+ * 时间复杂度，elog2e
+ * 适合稀疏网的最小生成树
  * @author kayi9
  *
  */
